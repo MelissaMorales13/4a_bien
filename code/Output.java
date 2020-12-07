@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class output {
+public class Output {
 
 	public void writeData(String outFile, String outText) {
 	
